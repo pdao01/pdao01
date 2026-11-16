@@ -96,7 +96,6 @@ My focus is embedded systems and hardware design, with a growing interest in chi
 **Tufts University** · B.S. Electrical Engineering · Expected May 2028
 
 - **Minors:** Computer Science, Economics
-- **GPA:** 3.97
 - **Relevant coursework:**
   - Embedded Systems · Digital Electronics
   - VLSI Design · Digital Signal Processing
