@@ -16,7 +16,7 @@ My focus is embedded systems and hardware design, with a growing interest in chi
 
 ## 📫 Get in Touch
 
-- **Email:** [maiphuongngocdao@gmail.com](mailto:maiphuongngocdao@gmail.com)
+- **Email:** [maiphuongngocdao@gmail.com](mailto:maiphuongngocdao@gmail.com) or
               [Phuong.Dao@tufts.edu](mailto:Phuong.Dao@tufts.edu)
 - **LinkedIn:** [linkedin.com/in/daongocmaiphuong](https://www.linkedin.com/in/daongocmaiphuong/)
 
